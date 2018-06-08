@@ -1,0 +1,31 @@
+{
+  "name": "umeng_plugin",
+  "version": "3.0.0",
+  "description": "umeng analytics plugin",
+  "cordova": {
+    "id": "Umeng",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catcheesetail/umeng_plugin.git"
+  },
+  "author": "umeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catcheesetail/umeng_plugin/issues"
+  },
+  "homepage": "https://github.com/catcheesetail/umeng_plugin#readme"
+}
